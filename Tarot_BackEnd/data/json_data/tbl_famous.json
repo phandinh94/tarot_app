@@ -1,0 +1,52 @@
+[
+	{
+		"id" : 1,
+		"name" : "Barack Hussein Obama II",
+		"date" : "04/08/1961",
+		"numberology" : "Số 3",
+		"infornation" : "“Một hiện tượng của Thế giới”, “Người thổi bùng lên quang cảnh quốc gia đang trong đêm tối” là những gì người ta thường nói về vị Tổng thống thứ 44 của nước Mỹ, cũng là vị Tổng thống da màu đầu tiên trong lịch sử của quốc gia này – Barack Obama. Chính thức rời khỏi Nhà Trắng từ năm 2017 sau khi trải qua hai nhiệm kỳ Tổng thống nhưng cho đến nay, cái tên Obama dường như vẫn chưa bao giờ đi vào quên lãng.",
+		"job" : "Cựu Tổng Thống Mỹ",
+		"image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/440px-President_Barack_Obama.jpg",
+		"numberId" : null
+	},
+	{
+		"id" : 2,
+		"name" : "Benjamin Graham",
+		"date" : "08/05/1894",
+		"numberology" : "Số 8",
+		"infornation" : "Một nhà kinh tế học, doanh nhân và là nhà đầu tư nổi tiếng và là thầy của Warren Buffett. Graham sở hữu tên riêng 62/8",
+		"job" : "Doanh Nhân",
+		"image" : "https://upload.wikimedia.org/wikipedia/commons/2/2a/Benjamin_Graham_%281894-1976%29_portrait_on_23_March_1950.jpg",
+		"numberId" : null
+	},
+	{
+		"id" : 3,
+		"name" : "Midu",
+		"date" : "5/10/1989",
+		"numberology" : "Số 6",
+		"infornation" : "Khả năng của số 33 đó là biết chuyển hướng lời nói hay cuộc hội thoại, làm thỏa mãn được đám đông và gây thiện cảm cho người nghe. Luôn rất giỏi khéo léo xử lý tình huống với vẻ ngoài nữ tính của mình. Và. cũng là một cô gái sống rất tình cảm, biết quan tâm đến người khác và có rất ít kẻ địch trong con đường sự nghiệp của mình",
+		"job" : "Diễn Viên",
+		"image" : "https://giaimathansohoc.vn/wp-content/uploads/2020/11/aaaa.png",
+		"numberId" : null
+	},
+	{
+		"id" : 4,
+		"name" : "Bill Gate",
+		"date" : "28/10/1955",
+		"numberology" : "Số 4",
+		"infornation" : "Là một nhà doanh nhân kiệt xuất của Mỹ. Ông là sáng lập và là kim chủ tịch của công ty Microsoft, một trong những công ty phần mềm lớn nhất thế giới. Bill Gate sở hữu một khối tài sản khổng lồ mà bất cứ ai cũng mơ ước có được. Ông luôn góp mặt trong top những người giàu nhất thế giới với số tài sản tính đến hiện tại lên tới 114,7 tỷ USD.",
+		"job" : "Doanh Nhân",
+		"image" : "https://giaimathansohoc.vn/wp-content/uploads/2020/11/asas.png",
+		"numberId" : null
+	},
+	{
+		"id" : 5,
+		"name" : "Mỹ Tâm",
+		"date" : "16/1/1981",
+		"numberology" : "Số 9",
+		"infornation" : "Dù ở vai trò nào cũng thể hiện sự năng động, nhiệt huyết của bản thân. Theo cách tính thần số học số 9 thì có thiên hướng nghệ thuật và Mỹ Tâm đã đi rất đúng năng lượng của mình ngay từ bé. Cũng sở hữu ngày sinh 16/7, mang lại cho nữ ca sĩ năng lực về trí tuệ, tư duy và sự hiểu biết.",
+		"job" : "Ca Sĩ",
+		"image" : "https://sohanews.sohacdn.com/thumb_w/660/160588918557773824/2022/10/16/photo1665899520995-1665899522020158099330.jpeg",
+		"numberId" : null
+	}
+]
